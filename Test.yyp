@@ -3,6 +3,7 @@
     {"id":{"name":"BossSprite","path":"sprites/BossSprite/BossSprite.yy",},"order":2,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":15,},
+    {"id":{"name":"Glasses","path":"sprites/Glasses/Glasses.yy",},"order":3,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"Boss1","path":"objects/Boss1/Boss1.yy",},"order":3,},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":2,},
