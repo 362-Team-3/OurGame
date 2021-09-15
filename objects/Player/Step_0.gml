@@ -22,6 +22,3 @@ if(timer <= 0){
 	instance_create_layer(0,random_range(0,2048),layer,Enemy);    // spawn enemy along left
 	timer = 600;
 }
-
-
-//TEST COMMENT
