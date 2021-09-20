@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "TempPlayer_Red",
+    "path": "sprites/TempPlayer_Red/TempPlayer_Red.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,6 +24,12 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+<<<<<<< Updated upstream
+=======
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Boss1","path":"objects/Boss1/Boss1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Boss1Turret","path":"objects/Boss1Turret/Boss1Turret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"BossProjectile","path":"objects/BossProjectile/BossProjectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+>>>>>>> Stashed changes
   ],
   "properties": [],
   "overriddenProperties": [],

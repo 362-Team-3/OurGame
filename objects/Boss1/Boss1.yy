@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "BossSprite",
-    "path": "sprites/BossSprite/BossSprite.yy",
+    "name": "TempBoss1",
+    "path": "sprites/TempBoss1/TempBoss1.yy",
   },
   "solid": false,
   "visible": true,

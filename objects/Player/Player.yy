@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "TempPlayer_Red",
+    "path": "sprites/TempPlayer_Red/TempPlayer_Red.yy",
   },
   "solid": false,
   "visible": true,
