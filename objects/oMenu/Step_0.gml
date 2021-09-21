@@ -39,7 +39,9 @@ if(menuCommit != -1)
 	{
 		
 		//New Game
-		case 2: default: SlideTransition(TRANS_MODE.NEXT); break;
+		//case 2: default: SlideTransition(TRANS_MODE.NEXT); break;
+		case 2: room_goto(Test); break;
 		case 0: game_end(); break;
+		default: room_goto(Menu); break;
 	}
 }
